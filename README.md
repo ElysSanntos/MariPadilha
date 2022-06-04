@@ -12,8 +12,6 @@ Hi devs! Sejam bem-vindos ao meu perfil! 👋
   <a href="https://github.com/MariPadilha">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MariPadilha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
-  ![Webp net-gifmaker](https://user-images.githubusercontent.com/87348445/171984120-45e3f2fc-32ad-4cd2-8a82-27d6a0becd7a.gif)
-
 <hr>
 
 ![minha apresentação](https://img.shields.io/static/v1?label=SOBRE-MIM&message=GITHUB&color=<COLOR>&style=<STYLE>&logo=<LOGO>)
@@ -73,4 +71,6 @@ Hi devs! Sejam bem-vindos ao meu perfil! 👋
 <h3 align="center">
     <p><u> Readme feito por MariPadilha! </u></p>
 </h3>
-![Webp net-gifmaker](https://user-images.githubusercontent.com/87348445/171984120-45e3f2fc-32ad-4cd2-8a82-27d6a0becd7a.gif)
+<div>
+    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/87348445/171984120-45e3f2fc-32ad-4cd2-8a82-27d6a0becd7a.gif?width=676&height=676">
+</div>
