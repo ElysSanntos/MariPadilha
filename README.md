@@ -74,3 +74,4 @@ Hi devs! Sejam bem-vindos ao meu perfil! 👋
 <div>
     <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/87348445/171984120-45e3f2fc-32ad-4cd2-8a82-27d6a0becd7a.gif?width=676&height=676">
 </div>
+    ![Snake animation](https://github.com/MariPadilha/MariPadilha/blob/main/.github/workflows/main.yml)
